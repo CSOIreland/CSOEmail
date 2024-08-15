@@ -9,7 +9,7 @@
     <GenerateAssemblyInfo>True</GenerateAssemblyInfo> 
     <Configuration></Configuration>
     <Company>Central Statistics Office, Ireland</Company>
-    <PackageId>CSO.Email.BETA</PackageId>
+    <PackageId>CSO.Email</PackageId>
     <Product>CSO.Email</Product>
     <Copyright>Central Statistics Office, Ireland</Copyright>
     <Version>0.0.1</Version>
